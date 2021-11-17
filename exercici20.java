@@ -4,6 +4,7 @@ public class exercici20 {
     public static void main(String[] args) {
         int days=10;
         String dia="english numbers";
+        System.out.println("Sóc en ki");
         for(int i = 0; i <= days; i++){
             switch(i){
             case 1:
